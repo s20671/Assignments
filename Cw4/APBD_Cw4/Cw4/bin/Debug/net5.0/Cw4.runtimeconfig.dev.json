@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kolos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kolos\\.nuget\\packages"
+    ]
+  }
+}
